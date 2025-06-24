@@ -1,3 +1,5 @@
+// Justin Johnson * 6/24/25
+
 // Generates a secure password using cryptographic randomness
 // Parameters:
 //   length - total password length (default: 12)
